@@ -1,6 +1,8 @@
 # SharpCoding 2023
 ## 03/12/2023 - Microsoft
 
+<img width="700" src="https://github.com/engineering87/TechnicalSessions/blob/main/Posters/SharpCodingConference-2023.jpg" style="vertical-align:middle"> 
+
 ### Abstract
 SharpCoding è una conferenza dedicata a tutte le persone che desiderano conoscere o approfondire le tecnologie e soluzioni Microsoft.
 SharpCoding prevederà una singola track composta da sessioni di 40 min.
