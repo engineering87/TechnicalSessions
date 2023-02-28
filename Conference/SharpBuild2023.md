@@ -1,8 +1,6 @@
 # SharpBuild 2023
 ## 03/12/2023 - Microsoft
 
-<img width="700" src="https://github.com/engineering87/TechnicalSessions/blob/main/Posters/WeBuild2023.jpg" style="vertical-align:middle"> 
-
 ### Abstract
 SharpBuild è una conferenza dedicata a tutte le persone che desiderano conoscere o approfondire le tecnologie e soluzioni Microsoft.
 SharpBuild prevederà una singola track composta da sessioni di 40 min.
