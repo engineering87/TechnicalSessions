@@ -1,9 +1,9 @@
-# SharpBuild 2023
+# SharpCoding 2023
 ## 03/12/2023 - Microsoft
 
 ### Abstract
-SharpBuild è una conferenza dedicata a tutte le persone che desiderano conoscere o approfondire le tecnologie e soluzioni Microsoft.
-SharpBuild prevederà una singola track composta da sessioni di 40 min.
+SharpCoding è una conferenza dedicata a tutte le persone che desiderano conoscere o approfondire le tecnologie e soluzioni Microsoft.
+SharpCoding prevederà una singola track composta da sessioni di 40 min.
 
 Ogni sessione dovrà rispondere alla seguente domanda:
 
